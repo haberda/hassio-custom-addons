@@ -1,5 +1,5 @@
 {
-    "name": "Greylurk's Experiments",
-    "url": "https://github.com/greylurk/hassio-custom-addons",
-    "maintainer": "greylurk"
+    "name": "OpenVPN for PortmapIO",
+    "url": "https://github.com/haberda/hassio-custom-addon",
+    "maintainer": "haberda"
 }
